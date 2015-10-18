@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="6px" viewBox="0 0 8 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>drop down icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Official" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Home-2.0(1440)" sketch:type="MSArtboardGroup" transform="translate(-1364.000000, -36.000000)" fill="#323E50">
+            <g id="Navi---Transparent" sketch:type="MSLayerGroup">
+                <g id="items" transform="translate(1053.000000, 25.000000)" sketch:type="MSShapeGroup">
+                    <g id="Company" transform="translate(234.000000, 0.000000)">
+                        <path d="M81,15.2332044 L77.6773586,11.910563 C77.5239462,11.7571506 77.2796547,11.760664 77.1268133,11.9135054 C76.9784419,12.0618768 76.9726546,12.3128343 77.123871,12.4640507 L80.6138295,15.9540092 C80.6328775,16.0027124 80.6617505,16.0480477 80.7001974,16.0864946 C80.7829652,16.1692624 80.892551,16.2082395 81,16.2022193 C81.107449,16.2082395 81.2170348,16.1692624 81.2998026,16.0864946 C81.3382495,16.0480477 81.3671225,16.0027124 81.3861705,15.9540092 L84.876129,12.4640507 C85.0273454,12.3128343 85.0215581,12.0618768 84.8731867,11.9135054 C84.7203453,11.760664 84.4760538,11.7571506 84.3226414,11.910563 L81,15.2332044 Z" id="drop-down-icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

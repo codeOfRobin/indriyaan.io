@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="530px" height="40px" viewBox="0 0 530 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo-and-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Outline-Icons" sketch:type="MSArtboardGroup" transform="translate(-1531.000000, -1486.000000)">
+            <g id="Dropdown" sketch:type="MSLayerGroup" transform="translate(1531.000000, 1486.000000)">
+                <rect id="Rectangle-135" fill="#FFFFFF" sketch:type="MSShapeGroup" x="0" y="0" width="530" height="40" rx="20"></rect>
+                <path d="M489,22.8498066 L484.016038,17.8658445 C483.785919,17.6357259 483.419482,17.640996 483.19022,17.8702581 C482.967663,18.0928152 482.958982,18.4692514 483.185806,18.696076 L488.420744,23.9310139 C488.449316,24.0040686 488.492626,24.0720715 488.550296,24.1297419 C488.674448,24.2538937 488.838826,24.3123593 489,24.3033289 C489.161174,24.3123593 489.325552,24.2538937 489.449704,24.1297419 C489.507374,24.0720715 489.550684,24.0040686 489.579256,23.9310139 L494.814194,18.696076 C495.041018,18.4692514 495.032337,18.0928152 494.80978,17.8702581 C494.580518,17.640996 494.214081,17.6357259 493.983962,17.8658445 L489,22.8498066 Z" id="drop-down-icon" fill="#323E50" sketch:type="MSShapeGroup"></path>
+            </g>
+        </g>
+    </g>
+</svg>
